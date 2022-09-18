@@ -1,2 +1,2 @@
-# my-first-project-maven
+# My first project Maven
 project-maven-template
