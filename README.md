@@ -1,2 +1,2 @@
-# My first project Maven
-project-maven-template
+# My first Maven project
+JavaRush Maven project
